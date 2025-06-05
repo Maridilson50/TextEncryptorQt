@@ -1,0 +1,12 @@
+# Qt Creator build artifacts
+*.pro.user
+*.qmake.stash
+Makefile*
+*.o
+*.obj
+*.exe
+*.log
+*.tmp
+/build/
+/debug/
+/release/
